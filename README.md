@@ -19,7 +19,7 @@ The Diagram shows the relationship among the various tables and their structure 
 
 
 QUESTIONS:
-1.Find the number of stores in each country\n
+1.Find the number of stores in each country
 2.Calculate the number of units sold by each store
 3.Calculate the percentage of warranty claims marked as "Rejected"
 4.Average price of product in each category
@@ -34,5 +34,6 @@ QUESTIONS:
 
 CONCLUSION:
 Along with problem solving using advanced sql, query optimization was also done by creating indexes, in order to reduce the execution time thus improving the efficiancy and yielding faster results.
-Various types of Joins ,aggregate functions ,cte's and window functions (like rank,sum etc) were used to analyze the trends and get a more comprehensive insight.
+Various types of Joins,aggregate functions,cte's and window functions (like rank,sum etc) were used to analyze the trends and get a more comprehensive insight.
+
 <img width="571" height="327" alt="image" src="https://github.com/user-attachments/assets/daf4de2f-91e1-4d94-a23a-10578025a0c9" />
