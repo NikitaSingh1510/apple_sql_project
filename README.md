@@ -19,7 +19,7 @@ The Diagram shows the relationship among the various tables and their structure 
 
 
 QUESTIONS:
-1.Find the number of stores in each country
+1.Find the number of stores in each country\n
 2.Calculate the number of units sold by each store
 3.Calculate the percentage of warranty claims marked as "Rejected"
 4.Average price of product in each category
